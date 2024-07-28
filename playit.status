@@ -1,1176 +1,970 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722126403748 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722129546986 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126406814 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129550031 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126409859 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129553075 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126412899 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129556129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126415943 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129559174 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126418977 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129562226 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126422147 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129565277 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126425190 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129568331 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126428260 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129571373 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126431299 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129574406 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126434369 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129577469 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126437412 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129580519 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126440470 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129583579 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126443518 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129586632 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126446578 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129589707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126449637 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129592792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126452679 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129595843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126455745 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129598901 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126458798 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129601981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126461849 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129605069 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126464896 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129608113 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126467949 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129611283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126471092 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129614346 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126474138 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129617407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126477192 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129620490 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126480236 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129623534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126483335 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129626575 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126486381 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129629660 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126489419 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129632695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126492593 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129635764 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126495745 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129638811 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126498793 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129641861 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126501838 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129644898 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126504883 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129648012 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126507917 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129651133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126510958 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129654194 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126514026 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129657243 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126517074 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129660296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126520150 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129663343 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126523191 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129666391 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126526249 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129669436 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126529308 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129672501 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126532360 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129675539 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126535416 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129678605 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126538472 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129681655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126541555 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129684700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126544594 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129687747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126547646 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129690831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126550692 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129693906 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126553747 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129696972 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126556787 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129700032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126559837 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129703068 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126562932 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129706129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126566033 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129709167 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126569083 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129712247 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126572134 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129715308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126575182 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129718357 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126578246 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129721392 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126581283 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129724446 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126584408 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129727478 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126587456 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129730519 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126590514 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129733561 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126593558 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129736608 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126596644 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129739684 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126599712 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129742753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126602846 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129745813 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126605910 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129748889 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126609045 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129751955 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126612100 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129754999 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126615135 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129758051 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126618179 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129761097 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126621226 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129764183 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126624283 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129767240 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126627332 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129770314 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126630372 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129773373 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126633480 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129776459 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126636529 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129779503 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126639591 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129782718 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126642645 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129785838 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126645690 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129788947 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126648729 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129792022 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126651817 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129795073 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126654857 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129798116 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126657952 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129801166 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126661014 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129804237 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126664107 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129807304 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126667182 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129810352 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126670233 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129813416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126673272 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129816460 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126676305 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129819517 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126679376 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129822561 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126682454 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129825609 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126685491 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129828683 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126688526 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129831790 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126691568 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129834852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126694605 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129837887 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126697649 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129840919 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126700718 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129844019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126703767 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129847062 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126706831 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129850108 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126709878 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129853138 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126712944 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129856209 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126716015 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129859296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126719062 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129862368 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126722130 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129865413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126725190 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129868474 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126728255 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129871530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126731305 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129874590 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126734353 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129877674 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126737409 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129880738 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126740444 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129883793 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126743489 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129886828 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126746527 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129889873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126749649 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129892917 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126752716 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129895954 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126755762 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129899022 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126758814 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129902217 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126761861 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129905255 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126764961 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129908297 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126767994 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129911342 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126771046 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129914380 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126774163 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129917409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126777197 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129920452 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126780241 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129923504 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126783279 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129926570 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126786325 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129929716 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126789389 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129932752 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126792426 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129935811 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126795485 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129938886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126798590 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129941925 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126801648 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129944990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126804717 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129948028 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126807765 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129951082 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126810826 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129954114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126813871 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129957167 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126816919 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129960219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126819993 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129963278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126823047 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129966327 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126826114 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129969362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126829179 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129972435 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126832228 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129975507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126835280 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129978562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126838314 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129981609 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126841368 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129984655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126844415 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129987717 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126847462 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129990765 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126850497 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129993840 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126853561 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129996927 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126856596 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722129999973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126859676 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130003032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126862726 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130006066 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126865784 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130009096 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126868835 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130012151 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126871886 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130015196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126874922 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130018246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126877957 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130021296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126881017 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130024376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126884090 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130027462 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126887135 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130030511 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126890180 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130033558 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126893224 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130036596 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126896286 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130039695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126899332 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130042747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126902446 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130045792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126905490 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130048839 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126908548 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130051895 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126911603 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130054960 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126914652 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130058011 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126917714 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130061068 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126920935 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130064109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126923983 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130067193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126927024 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130070246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126930066 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130073321 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126933128 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130076405 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126936163 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130079449 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126939291 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130082531 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126942335 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130085676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126945386 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130088764 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126948432 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130091831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126951467 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130094914 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126954506 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130097971 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126957574 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130101008 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126960628 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130104071 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126963678 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130107109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126966727 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130110158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126969765 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130113198 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126972807 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130116250 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722126975850 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130119295 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126978952 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130122341 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126981999 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130125385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126985160 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130128464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126988198 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130131541 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126991266 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130134613 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126994356 tunnel running, 2 tunnels registered
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722130137664 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722126997403 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1722127000450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-this-disclosure.gl.at.ply.gg:1582 => 127.0.0.1:1582 (minecraft-bedrock)
-statement-english.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+send-estimated.gl.at.ply.gg:32333 => 127.0.0.1:32333 (minecraft-bedrock)
